@@ -1,4 +1,4 @@
-# Cool LLM Projects 2024
+# COOL LLM Projects
 
 Welcome to Cool LLM Projects 2024, a curated collection of exciting and innovative projects involving Large Language Models (LLMs) in the year 2024.
 
